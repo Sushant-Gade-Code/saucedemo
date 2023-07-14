@@ -1,0 +1,13 @@
+2023-07-13 19:35:26,103 : INFO : Test_login_001 : test_Test_HomePageTitle__001 :17: TestCase test_Test_HomePageTitle__001 Started..!
+2023-07-13 19:35:26,104 : INFO : Test_login_001 : test_Test_HomePageTitle__001 :19: Initializing driver is Done..!
+2023-07-13 19:35:30,170 : INFO : Test_login_001 : test_Test_HomePageTitle__001 :21: Opening Url successfully..!
+2023-07-13 19:35:30,181 : INFO : Test_login_001 : test_Test_HomePageTitle__001 :23: Capturing Titel successfully..!
+2023-07-13 19:35:30,181 : INFO : Test_login_001 : test_Test_HomePageTitle__001 :26: TestCase test_Test_HomePageTitle__001 Passed..!
+2023-07-13 19:35:32,929 : INFO : Test_login_001 : test_login__002 :36: TestCase test_login__002 Started..!
+2023-07-13 19:35:32,930 : INFO : Test_login_001 : test_login__002 :38: Initializing driver is Done..!
+2023-07-13 19:35:33,985 : INFO : Test_login_001 : test_login__002 :40: Opening Url successfully..!
+2023-07-13 19:35:34,723 : INFO : Test_login_001 : test_login__002 :43: Getting Username successfully..!
+2023-07-13 19:35:36,844 : INFO : Test_login_001 : test_login__002 :45: Getting Password successfully..!
+2023-07-13 19:35:37,305 : INFO : Test_login_001 : test_login__002 :47: Getting LogInButton successfully..!
+2023-07-13 19:35:37,437 : INFO : Test_login_001 : test_login__002 :49: Capturing Titel successfully..!
+2023-07-13 19:35:37,437 : INFO : Test_login_001 : test_login__002 :52: TestCase test_login__002 Passed..!
